@@ -47,6 +47,7 @@ The goal is to understand how different techniques affect learning speed, stabil
 ### 📊 Results
 
 ![Comparison](https://chatgpt.com/c/results/comparison.png)
+![Policy Gradient Comparison](results/comparison.png)
 
 ---
 
